@@ -99,7 +99,7 @@ transport . taxi . présent:
 transport . voyageurs:
   ordre: 1
   titre: Nombre voyageurs participant au séjour
-  question: Combien de personnes voyageront (vous inclus) ?
+  question: Combien de personnes iront au festival (vous inclus) ?
   description: |
     Si vous êtes en couple renseignez 2. Si vous êtes une famille composée de deux adultes et deux enfants, renseignez 4. Etc.
   par défaut: 2

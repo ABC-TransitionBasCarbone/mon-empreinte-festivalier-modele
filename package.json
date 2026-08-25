@@ -1,5 +1,5 @@
 {
-  "name": "@abc-transitionbascarbone/mon-empreinte-festivalier",
+  "name": "@abc-transitionbascarbone/mon-empreinte-festivalier-modele",
   "version": "1.0.0",
   "description": "Le modèle de calcul d'empreinte climat de tourisme, fork du modèle de calcul Nos Gestes Climat",
   "main": "index.js",
